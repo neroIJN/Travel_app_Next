@@ -2,9 +2,9 @@ import React from 'react'
 
 const Camp = () => {
   return (
-    <div>
-      
-    </div>
+    <section className = "border-2">
+
+    </section>
   )
 }
 
